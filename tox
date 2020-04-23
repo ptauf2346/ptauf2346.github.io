@@ -1,0 +1,12 @@
+[tox]
+envlist = website
+toxworkdir = {toxinidir}/build/tox
+skipsdist = True
+
+[testenv:website]
+basepython = python3.7
+deps =
+    sphinx
+changedir = doc
+commands =
+    sphinx-build -W -b html -d {envtmpdir}/doctrees . {envtmpdir}/html
