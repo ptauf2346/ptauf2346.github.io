@@ -1,5 +1,5 @@
 master_doc = 'index'
-project = "Calculate.Solutions"
-copyright = '2020, Calculate Deez Nuts, Inc.'
-author = 'Calculate Soln, Inc.'
+project = "paultaufalele.com"
+copyright = '2020, Paul Taufalele, Inc.'
+author = 'Paul Taufalele, Inc.'
 version = release = ''
