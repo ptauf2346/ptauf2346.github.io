@@ -9,4 +9,5 @@ More to come soon.
 
   About
   Vitae
+  Projects
   Contact
