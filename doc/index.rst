@@ -1,7 +1,9 @@
-Calculate Solutions
+Paul V. Taufalele
 --------------------
 
-Learn how to add, subtract, multiply, and partial differential equations!
+Chess and beans.
+
+More to come soon.
 
 .. toctree::
 
